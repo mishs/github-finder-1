@@ -3,11 +3,11 @@ Web App in React and Material-UI to fetch users' data from GitHub's API.
 
 #Table of Contents
 Cloning Repository
-  -git clone url < >
-  cd into project
-  npm i / yarn add
-  npm / yarn start
-Available Scripts
+*git clone url < >
+*cd into project
+*npm i / yarn add
+*npm / yarn start
+*Available Scripts
 
          This project was bootstrapped with Create React App.
 
