@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/x-grid": "^4.0.0-alpha.23",
+    "@material-ui/x-grid-data-generator": "^4.0.0-alpha.23",
+    "axios": "^0.21.1",
+    "styled-components": "^5.2.3"
+  }
+}
