@@ -22,9 +22,10 @@ npm start / yarn start
 ```Run the app in development mode on  
 [Git repo](http://localhost:3000/)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+React (Hooks and + ES6)
+Material-UI
+Styled-components
+GitHub API
 ```
 
 ## Refactoring
