@@ -4,7 +4,7 @@ Web App in React and Material-UI to fetch users' data from GitHub's API.
 
 --
 ## Table of Content
-    ##. Installation
+    # Installation
     ##. Usage
     ## Refactoring
     ## License
