@@ -1,24 +1,34 @@
-# github-finder
+# Github-Finder
 
 Web App in React and Material-UI to fetch users' data from GitHub's API.
 
-*This project was bootstrapped with Create React App.*
+## Installation
 
-# Table of Contents
+```Git clone 
+[Git repo](https://github.com/mishs/github-finder.git)
 
-### Cloning Repository
-* git clone url [https://github.com/mishs/github-finder.git
-* cd into project
-* npm i / yarn
- * npm / yarn start
-### Available Scripts / Libraries
-* React
-* Material-UI
-* Styled Components
-* Axios
-         
-### Live site:
-URL : 
-  
+Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install node.
 
+```bash
+npm i / yarn add
+```
 
+```bash
+npm start / yarn start
+```
+
+## Usage
+
+```Run the app in development mode on  
+[Git repo](http://localhost:3000/)
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
+## Refactoring
+In progress
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
