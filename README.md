@@ -28,7 +28,7 @@ Use the package manager
 ### Usage
 
 ```Run the app in development mode on  
-[Git repo] (http://localhost:3000/)
+[Git](http://localhost:3000/)
 
 React (Hooks and + ES6)
 Material-UI
