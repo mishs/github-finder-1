@@ -12,7 +12,7 @@ Web App in React and Material-UI to fetch users' data from GitHub's API.
 ### Installation
 
 ```Git clone 
-[Git repo] (https://github.com/mishs/github-finder.git)
+[Git repo](https://github.com/mishs/github-finder.git)
 
 Use the package manager 
 [npm] https://docs.npmjs.com/cli/v6/commands/npm-install to install node.
