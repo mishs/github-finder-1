@@ -1,39 +1,34 @@
-# github-finder
+# Github-Finder
+
 Web App in React and Material-UI to fetch users' data from GitHub's API.
 
-#Table of Contents
-Cloning Repository
-*git clone url < >
-*cd into project
-*npm i / yarn add
-*npm / yarn start
-*Available Scripts
+## Installation
 
-         This project was bootstrapped with Create React App.
+```Git clone 
+[Git repo](https://github.com/mishs/github-finder.git)
 
-Available Scripts
-In the project directory, you can run:
+Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install node.
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+```bash
+npm i / yarn add
+```
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+```bash
+npm start / yarn start
+```
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+## Usage
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```Run the app in development mode on  
+[Git repo](http://localhost:3000/)
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 
-See the section about deployment for more information.
+## Refactoring
+In progress
 
-Live site:
-
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
